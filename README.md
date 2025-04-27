@@ -36,6 +36,9 @@ Define 10 students JSON
 ![Screenshot (33)](https://github.com/user-attachments/assets/bb03b371-df06-49fb-875f-345e45222560)
 ![Screenshot (34)](https://github.com/user-attachments/assets/eb6c3523-4455-4bf4-baef-66c1934b64cd)
 
+write a code find the all pairs that sum up to the target
+
+![Screenshot (38)](https://github.com/user-attachments/assets/f7c86800-72e9-48f9-a9ef-6ecc10635385)
 
 
 
